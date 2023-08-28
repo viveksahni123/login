@@ -1,0 +1,65 @@
+body {
+  background-image: url("./beautiful-scenery-summit-mount-everest-covered-with-snow-white-clouds.jpg");
+  background-size: cover;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row {
+  /* background-color: transparent; */
+  width: 350px;
+}
+input {
+  /* border-radius: 5px; */
+  width: 300px;
+  padding: 10px;
+}
+.input-text {
+  padding-top: 10px;
+  padding: 10px;
+}
+
+.btn {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.btn > button:hover{
+  color: aqua;
+  background-color: red;
+}
+.login_h {
+  text-align: center;
+}
+button {
+  border-radius: 10px;
+  font-size: 15px;
+  background-color: rgb(40, 40, 187);
+  padding: 8px;
+  width: 100px;
+}
+.in-text{
+  color: white;
+  
+}
+.input{
+  outline: none;
+}
+.del{
+  padding-bottom: 5px;
+  padding-left:218px;
+  
+}
+a{
+  color: white;
+}
+
+
+
